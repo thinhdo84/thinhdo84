@@ -13,8 +13,10 @@ Strolling in life to learn, discover and pass on the art of science
 - Email :email: thinh.doh04@gmail.com
 - My academic publication :book: [Google Scholar](https://tinyurl.com/thinhdo-GoogleScholar)
 - LinkedIn :office: [linkedin.com/huu-thinh-do](https://www.linkedin.com/in/huu-thinh-do/)
+- My channel 📹 [youtube.com/@huuthinhdo]( https://www.youtube.com/@huuthinhdo)  
 
 ## 💃 Hobby
 - Roller Skate
 - Guitar 🎸
 - Drawingg
+
