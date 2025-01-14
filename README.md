@@ -1,8 +1,8 @@
 # Hello, I'm Thinh 👋
 
-## 🧑‍🎓 Mechatronic Engineer | 🧑‍🏫 Control Engineering PhD Candidate
+## 🧑‍🎓 Mechatronic Engineer | 🧑‍🏫 Control Engineering PhD.
 
-Strolling in life to learn, discover and pass on the art of science
+
 
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, C/C++, PLC
